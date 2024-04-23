@@ -1,3 +1,4 @@
+//contactsSlice.js
 import { createSlice, nanoid } from "@reduxjs/toolkit";
 import contactsData from "../components/Contact/contacts.json";
 
